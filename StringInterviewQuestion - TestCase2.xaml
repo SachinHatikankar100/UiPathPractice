@@ -86,8 +86,8 @@
           <OutArgument x:TypeArguments="x:String">[str_String1]</OutArgument>
         </Assign.To>
         <Assign.Value>
-          <InArgument x:TypeArguments="x:String" xml:space="preserve">["Barwells Wealth
-Barwells Taxation
+          <InArgument x:TypeArguments="x:String" xml:space="preserve">["Wealth
+Taxation
 "]</InArgument>
         </Assign.Value>
       </Assign>
@@ -96,8 +96,8 @@ Barwells Taxation
           <OutArgument x:TypeArguments="x:String">[str_String2]</OutArgument>
         </Assign.To>
         <Assign.Value>
-          <InArgument x:TypeArguments="x:String" xml:space="preserve">["Barwells Taxation
-Barwells Wealth
+          <InArgument x:TypeArguments="x:String" xml:space="preserve">["Taxation
+Wealth
 "]</InArgument>
         </Assign.Value>
       </Assign>

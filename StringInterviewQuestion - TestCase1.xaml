@@ -87,8 +87,8 @@
           <OutArgument x:TypeArguments="x:String">[str_String1]</OutArgument>
         </Assign.To>
         <Assign.Value>
-          <InArgument x:TypeArguments="x:String" xml:space="preserve">["Barwells Wealth
-Independent Pilots Financials Services
+          <InArgument x:TypeArguments="x:String" xml:space="preserve">["Wealth
+Financials Services
 "]</InArgument>
         </Assign.Value>
       </Assign>
@@ -97,9 +97,9 @@ Independent Pilots Financials Services
           <OutArgument x:TypeArguments="x:String">[str_String2]</OutArgument>
         </Assign.To>
         <Assign.Value>
-          <InArgument x:TypeArguments="x:String" xml:space="preserve">["Barwells Wealth
-Barwells Taxation
-Talk Money
+          <InArgument x:TypeArguments="x:String" xml:space="preserve">["Wealth
+Taxation
+Money
 "]</InArgument>
         </Assign.Value>
       </Assign>
